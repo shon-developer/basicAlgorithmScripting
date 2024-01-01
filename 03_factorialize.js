@@ -11,3 +11,5 @@ function factorialize(num) {
 }
 
 console.log(factorialize(5));
+
+/*----------------------------------------------*/
